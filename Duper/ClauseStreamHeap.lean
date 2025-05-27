@@ -1,4 +1,3 @@
-import Batteries.Data.BinomialHeap
 import Duper.Util.IdStrategyHeap
 import Duper.Clause
 import Duper.DUnif.UnifRules

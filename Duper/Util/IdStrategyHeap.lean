@@ -1,4 +1,4 @@
-import Batteries.Data.BinomialHeap
+import Duper.Batteries.Data.BinomialHeap
 import Lean
 
 open Lean
